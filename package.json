@@ -4,6 +4,7 @@
   "description": "Node.js template project with TypeScript, Prettier and ESLint integration",
   "main": "dist/index.js",
   "scripts": {
+    "format": "prettier . -w",
     "lint": "eslint . --ext .ts",
     "prebuild": "npm run lint",
     "build": "tsc",

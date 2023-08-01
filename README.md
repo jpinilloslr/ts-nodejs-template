@@ -20,6 +20,7 @@ npm install
 ```
 
 ## Scripts
+
 The following npm scripts are available for your convenience:
 
 - **build**: Compiles the TypeScript code to JavaScript in the "dist" folder.
@@ -30,11 +31,13 @@ The following npm scripts are available for your convenience:
 Feel free to modify the content to start building your Node.js application.
 
 ## Code Formatting
+
 Prettier is integrated into the project to ensure consistent code formatting. Your code will be automatically formatted whenever you save a file. To configure Prettier settings, check the .prettierrc file in the project root.
 
 ## Code Linting
+
 ESLint is set up to enforce coding standards and identify potential issues in your code. The ESLint rules are defined in the .eslintrc file. Make sure to follow the linting recommendations to maintain code quality.
 
 ## Reference Article
-This project is based on the setup described in this article: [NodeJS project with Typescript, ESLint, and Prettier](https://gist.github.com/jpinilloslr/944843b63f750263f97c406d1a75ca1a)
 
+This project is based on the setup described in this article: [NodeJS project with Typescript, ESLint, and Prettier](https://gist.github.com/jpinilloslr/944843b63f750263f97c406d1a75ca1a)
