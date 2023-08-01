@@ -26,6 +26,7 @@ The following npm scripts are available for your convenience:
 - **build**: Compiles the TypeScript code to JavaScript in the "dist" folder.
 - **watch**: Automatically recompiles whenever changes are made to the source code.
 - **lint**: Lints your code using ESLint to identify and fix issues.
+- **format**: Apply code styling rules.
 - **prebuild**: Runs ESLint to check for linting issues before compilation.
 
 Feel free to modify the content to start building your Node.js application.
